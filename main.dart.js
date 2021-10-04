@@ -59887,7 +59887,7 @@ A.OE.prototype={
 $1(a){return B.i7},
 $S:126}
 A.OG.prototype={
-$0(){var s=A.ad1("assets/files/LatrellNewGradResume.pdf")
+$0(){var s=A.ad1("assets/assets/files/LatrellNewGradResume.pdf")
 s.download="LatrellNewGradResume.pdf"
 s.click()
 return null},
