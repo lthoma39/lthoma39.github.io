@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Software Development",
+        "image": "assets/images/ship.png",
+        "color": "0xFF468189"
+    },
+    {
+        "id": 2,
+        "title": "UI Design",
+        "image": "assets/images/graphic.png",
+        "color": "0xFF77ACA2"
+    },
+    {
+        "id": 3,
+        "title": "Volunteer",
+        "image": "assets/images/heart.png",
+        "color": "0xFF9DBEBB"
+    }
+]

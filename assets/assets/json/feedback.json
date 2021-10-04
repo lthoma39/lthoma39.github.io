@@ -1,0 +1,18 @@
+[
+    {
+
+        "id": 1,
+        "color": "0xFFFFF3DD",
+        "name": "Jorge Coca",
+        "review": "Amazing Worker",
+        "userPic": "assets/images/jorge_coca.png"
+
+    },
+    {
+        "id": 2,
+        "color": "0xFFFFF3DD",
+        "name": "Macho Coca",
+        "review": "Amazing Worker",
+        "userPic": "assets/images/jorge_coca.png"
+    }
+]
