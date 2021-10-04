@@ -59888,7 +59888,7 @@ $1(a){return B.i7},
 $S:126}
 A.OG.prototype={
 $0(){var s=A.ad1("assets/files/LatrellNewGradResume.pdf")
-s.download="Latrell New Grad Resume"
+s.download="LatrellNewGradResume.pdf"
 s.click()
 return null},
 $S:0}
